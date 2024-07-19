@@ -1,7 +1,7 @@
 # Qr-code Generator
 
 A dynamic Qr-code generator where you can modify the background and foreground and also the size. 
-In the input you can insert your link for the creation of your Qr-code.
+<br>In the input you can insert your link for the creation of your Qr-code.
 
 # Screenshoot
 
